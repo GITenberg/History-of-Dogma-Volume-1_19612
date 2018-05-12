@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8782
     wikipedia: http://en.wikipedia.org/wiki/Adolf_von_Harnack
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19612#History-of-Dogma-Volume-1
 gutenberg_issued: '2006-10-24'
 gutenberg_type: Text
 identifiers:
